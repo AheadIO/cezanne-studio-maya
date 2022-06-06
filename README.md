@@ -1,2 +1,3 @@
-# cezanne-studio-maya
-Cezanne Studio Maya Plugin
+# Cezanne Studio Maya Plugin
+
+Soon to be released.
